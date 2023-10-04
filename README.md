@@ -138,44 +138,45 @@ def predict(theta, X):
 
 ## Output:
 
+ARRAY VALUE OF X:
+
 ![Screenshot 2023-09-25 174631](https://github.com/Roselinjovita/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119104296/c0e7ccf6-596f-426c-9ec6-bb6c44db5279)
+
+ARRAY VALUE OF Y:
 
 ![Screenshot 2023-09-25 174721](https://github.com/Roselinjovita/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119104296/18c2caf9-6cb8-425e-af9d-2cc5793aa16c)
 
-
+EXAM 1- SCORE GRAPH:
 
 ![Screenshot 2023-09-25 174802](https://github.com/Roselinjovita/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119104296/fd6cb900-697f-4525-8c84-19890bc8af11)
 
+SIGMOID FUNCTION GRAPH:
+
 ![Screenshot 2023-09-25 174915](https://github.com/Roselinjovita/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119104296/5a24f549-2334-4e2b-bfdb-ba3f42db8bb9)
 
-
+X_TRAIN GRAD VALUE:
 
 ![Screenshot 2023-09-25 174943](https://github.com/Roselinjovita/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119104296/2fc97b75-229a-4531-bd54-1db63c0d96a9)
 
-
-
+Y_ TRAIN GRAD VALUE:
 
 ![Screenshot 2023-09-25 175024](https://github.com/Roselinjovita/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119104296/49c4267f-7764-44d8-8e59-e384d19405d9)
 
+PRINT RES.X
 
 ![Screenshot 2023-09-25 175052](https://github.com/Roselinjovita/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119104296/9b6c0ec7-6ba9-4f37-aaf3-05435a68e7d3)
+ 
+DECISION BOUNDARY - GRAPH FOR EXAM SCORE:
 
 ![Screenshot 2023-09-25 175122](https://github.com/Roselinjovita/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119104296/4514c07c-d7f7-41d6-b6b5-7a7b632edcea)
 
-
-
+PROBABILITY VALUE:
 
 ![Screenshot 2023-09-25 175154](https://github.com/Roselinjovita/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119104296/a8af9b5d-e5ef-4d64-9cff-78fd37b38ce6)
 
-
-
+PREDICTION VALUE OF MEAN:
 
 ![Screenshot 2023-09-25 175218](https://github.com/Roselinjovita/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119104296/2e5fe8ee-4633-47b8-83fa-e0583fb12d20)
-
-
-
-
-
 
 
 ## Result:
